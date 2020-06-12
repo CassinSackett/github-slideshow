@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+My wit is underappreciated
 Use the left arrow to go back!
